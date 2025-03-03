@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Letra';
+    src: url(../fonts/Raleway-VariableFont_wght.ttf);
+}
+
+* {
+    font-family: 'Letra';
+}
