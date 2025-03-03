@@ -21,7 +21,7 @@ Aplicación web para la gestión y consulta de estadísticas y datos de la NBA.
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/nba-proyecto
+git clone https://github.com/alvarobenitez1203/nba
 ```
 
 2. Configurar un servidor web (Apache, Nginx) con PHP y MySQL.
